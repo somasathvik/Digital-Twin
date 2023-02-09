@@ -2,10 +2,6 @@
 
 We aim to provide farmers and householders the comfort of monitoring and managing their Drip Irrigation systems easier even from areas that might be kilometers apart.
 
-## Problem Statement
-
-We aim to provide farmers and householders the comfort of monitoring and managing their Drip Irrigation systems easier even from areas that might be kilometers apart.
-
 ## Solution
 
 - We can create a 3D model of the irrigation system in a virtual world using the Unreal engine.
